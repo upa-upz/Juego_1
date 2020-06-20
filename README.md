@@ -1,2 +1,5 @@
 # Juego_1
-Practica de lógica de Juego
+Intento de entender la logica de un juego
+
+Tutoraial del canal de youtube [Franks laboratory](https://www.youtube.com/watch?v=lGJ9i6CYKyQ)
+
